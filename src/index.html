@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Resume</title>
+  </head>
+  <body>
+    <div class="main-container">
+      <div class="sidebar">
+        <img class="photo" src="./images/photo.jpg" alt="My photo" />
+        <!--Contacts-->
+        <include src="./parts/contacts.html"></include>
+        <!--Tech Skills-->
+        <include src="./parts/tech-skills.html"></include>
+        <!--Soft Skills-->
+        <include src="./parts/soft-skills.html"></include>
+         <!--Language Skills-->
+         <include src="./parts/language-skills.html"></include>
+      </div>
+      <!-- about me container -->
+      <div class="info">
+        <!-- about me main info -->
+        <include src="./parts/basic-info.html"></include>
+        <!-- progect container-->
+        <include src="./parts/progects.html"></include>
+        <!-- Work Experience -->
+        <include src="./parts/work-experience.html"></include>
+        <!-- Education -->
+        <include src="./parts/education.html"></include>
+      </div>
+    </div>
+    <script type="module" src="./index.js"></script>
+  </body>
+</html>

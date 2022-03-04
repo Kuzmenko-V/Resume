@@ -1,0 +1,35 @@
+.sidebar
+{
+    background: #1e2939;
+    width: 370px;
+    padding: 40px 5px;
+}
+.photo
+{
+    width: 360px;
+    margin-bottom: 60px;
+}
+.container-sidebar-part {
+    padding: 0px 40px;
+    margin-bottom: 60px;
+}
+
+.title-sidebar-part {
+    margin-bottom: 20px;
+    color: $main-color;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 24px;
+}
+.text-sidebar-part {
+    color: #d8dadd;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.list-item-sidebar-part {
+    list-style: disc;
+    margin-left: 15px;
+    &::marker {color: $accent-color;}
+
+}

@@ -1,0 +1,48 @@
+.info { color: $title-color;
+    padding-left: 90px;
+    padding-right: 90px;
+    padding-top: 110px;
+    padding-bottom: 110px;
+}
+.profession {
+    font-size: 14px;
+font-weight: 700;
+line-height: 24px;
+margin-bottom: 23px;
+}
+.name {
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 89px;
+    margin-bottom: 25px;
+}
+.discription { font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+   }
+.basic-info {margin-bottom: 65px;}
+.title-info-part {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 10px;
+}
+.project-list {
+    font-weight: 700;
+    margin-left: 17px;
+}
+.project-link{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: $accent-color;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.line {margin: 0px 5px; 
+    flex: 2 1 auto;
+    height: 0px;
+    border-bottom: 2px dotted $accent-color;
+}
