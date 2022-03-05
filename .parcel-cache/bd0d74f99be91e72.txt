@@ -1,4 +1,4 @@
-20740
+20739
 95C:\Users\ANNA\Desktop\Resume\node_modules\@parcel\transformer-js\parcel-swc.win32-x64-msvc.node132908777571614210 0
 62C:\Users\ANNA\Desktop\Resume\node_modules\lodash\_baseWhile.js132908777312772873 0
 71C:\Users\ANNA\Desktop\Resume\node_modules\weak-lru-cache\dist\index.cjs132908776801514829 0
@@ -26,7 +26,7 @@
 52C:\Users\ANNA\Desktop\Resume\node_modules\is-extglob132908776859753618 1
 69C:\Users\ANNA\Desktop\Resume\node_modules\w3c-xmlserializer\README.md132908776807953033 0
 79C:\Users\ANNA\Desktop\Resume\node_modules\parcel-bundler\node_modules\json5\lib132908777032298659 1
-33C:\Users\ANNA\Desktop\Resume\dist132908983100303915 1
+33C:\Users\ANNA\Desktop\Resume\dist132909601600680200 1
 84C:\Users\ANNA\Desktop\Resume\node_modules\@babel\helper-split-export-declaration\lib132908776838831322 1
 64C:\Users\ANNA\Desktop\Resume\node_modules\tweetnacl\CHANGELOG.md132908777032528311 0
 65C:\Users\ANNA\Desktop\Resume\node_modules\snapdragon\lib\utils.js132908776983703527 0
@@ -139,7 +139,7 @@
 76C:\Users\ANNA\Desktop\Resume\node_modules\string.prototype.trimend\.eslintrc132908776829250698 0
 61C:\Users\ANNA\Desktop\Resume\node_modules\core-js\fn\weak-set132908777595592238 1
 111C:\Users\ANNA\Desktop\Resume\node_modules\@parcel\core\test\fixtures\invalid-target-source-missing\package.json132908777362342008 0
-54C:\Users\ANNA\Desktop\Resume\src\parts\basic-info.html132908889801520456 0
+54C:\Users\ANNA\Desktop\Resume\src\parts\basic-info.html132909600558575143 0
 62C:\Users\ANNA\Desktop\Resume\node_modules\destroy\package.json132908776790367665 0
 46C:\Users\ANNA\Desktop\Resume\node_modules\abab132908776960845469 1
 78C:\Users\ANNA\Desktop\Resume\node_modules\ora\node_modules\color-name\index.js132908776903726569 0
@@ -177,6 +177,11 @@
 39C:\Users\ANNA\Desktop\Resume\src\images132908766858953660 1
 71C:\Users\ANNA\Desktop\Resume\node_modules\es-abstract\2020\BinaryAnd.js132908777289959853 0
 78C:\Users\ANNA\Desktop\Resume\node_modules\is-color-stop\lib\isCSSLengthUnit.js132908776979366687 0
+52C:\Users\ANNA\Desktop\Resume\node_modules\uuid\v1.js132908777011011175 0
+91C:\Users\ANNA\Desktop\Resume\node_modules\core-js\library\modules\es6.number.parse-float.js132908777493943042 0
+89C:\Users\ANNA\Desktop\Resume\node_modules\postcss-ordered-values\src\lib\joinGridValue.js132908777020609450 0
+98C:\Users\ANNA\Desktop\Resume\node_modules\@babel\helper-explode-assignable-expression\lib\index.js132908776851460254 0
+53C:\Users\ANNA\Desktop\Resume\node_modules\array-union132908776861038075 1
 58C:\Users\ANNA\Desktop\Resume\node_modules\lodash\object.js132908777514218193 0
 117C:\Users\ANNA\Desktop\Resume\node_modules\parcel-bundler\node_modules\htmlnano\node_modules\posthtml-parser\readme.md132908777028831256 0
 64C:\Users\ANNA\Desktop\Resume\node_modules\querystring\License.md132908776979225734 0
@@ -186,7 +191,7 @@
 78C:\Users\ANNA\Desktop\Resume\node_modules\supports-preserve-symlinks-flag\test132908776916379895 1
 63C:\Users\ANNA\Desktop\Resume\node_modules\domutils\lib\index.js132908776888803160 0
 82C:\Users\ANNA\Desktop\Resume\node_modules\@babel\runtime\helpers\setPrototypeOf.js132908777346445739 0
-43C:\Users\ANNA\Desktop\Resume\src\index.html132908883363778194 0
+43C:\Users\ANNA\Desktop\Resume\src\index.html132909507515488395 0
 116C:\Users\ANNA\Desktop\Resume\node_modules\parcel-bundler\node_modules\htmlnano\node_modules\terser\lib\propmangle.js132908777213199170 0
 54C:\Users\ANNA\Desktop\Resume\node_modules\universalify132908776856253131 1
 71C:\Users\ANNA\Desktop\Resume\node_modules\fast-glob\out\utils\stream.js132908777199593999 0
@@ -219,7 +224,7 @@
 75C:\Users\ANNA\Desktop\Resume\node_modules\postcss-discard-empty\LICENSE-MIT132908776786738409 0
 51C:\Users\ANNA\Desktop\Resume\node_modules\is-number132908776859733622 1
 62C:\Users\ANNA\Desktop\Resume\node_modules\type-check\README.md132908776807953033 0
-48C:\Users\ANNA\Desktop\Resume\src\sass\components132908883481913102 1
+48C:\Users\ANNA\Desktop\Resume\src\sass\components132909559445769077 1
 56C:\Users\ANNA\Desktop\Resume\node_modules\tr46\README.md132908776807953033 0
 88C:\Users\ANNA\Desktop\Resume\node_modules\postcss-modules-values\node_modules\color-name132908776948009200 1
 56C:\Users\ANNA\Desktop\Resume\node_modules\.bin\jsesc.cmd132908777621758153 0
@@ -243,15 +248,12 @@
 77C:\Users\ANNA\Desktop\Resume\node_modules\yaml\browser\dist\legacy-exports.js132908777011836865 0
 43C:\Users\ANNA\Desktop\Resume\src\sass\utils132908740599826240 1
 114C:\Users\ANNA\Desktop\Resume\node_modules\snapdragon\node_modules\is-data-descriptor\node_modules\kind-of\index.js132908776870320149 0
-58C:\Users\ANNA\Desktop\Resume\src\sass\components\style.css132908900059581524 0
-62C:\Users\ANNA\Desktop\Resume\node_modules\lodash\fp\valueOf.js132908777536598810 0
-76C:\Users\ANNA\Desktop\Resume\node_modules\core-js\library\modules\es6.map.js132908777487385538 0
 63C:\Users\ANNA\Desktop\Resume\node_modules\object-inspect\.nycrc132908776863602939 0
 49C:\Users\ANNA\Desktop\Resume\node_modules\getpass132908776918579333 1
 62C:\Users\ANNA\Desktop\Resume\node_modules\core-js\es7\error.js132908777470853335 0
 47C:\Users\ANNA\Desktop\Resume\node_modules\acorn132908777005965670 1
 60C:\Users\ANNA\Desktop\Resume\node_modules\@parcel\runtime-js132908777202042032 1
-59C:\Users\ANNA\Desktop\Resume\src\parts\work-experience.html132908774554890427 0
+59C:\Users\ANNA\Desktop\Resume\src\parts\work-experience.html132909597842603144 0
 84C:\Users\ANNA\Desktop\Resume\node_modules\uncss\node_modules\picocolors\package.json132908776869742634 0
 93C:\Users\ANNA\Desktop\Resume\node_modules\posthtml-include\node_modules\htmlparser2\README.md132908777078531229 0
 75C:\Users\ANNA\Desktop\Resume\node_modules\whatwg-mimetype\lib\serializer.js132908776924381799 0
@@ -270,7 +272,7 @@
 102C:\Users\ANNA\Desktop\Resume\node_modules\deasync\node_modules\node-addon-api\external-napi\node_api.h132908777082850155 0
 66C:\Users\ANNA\Desktop\Resume\node_modules\lodash\wrapperReverse.js132908777538542787 0
 103C:\Users\ANNA\Desktop\Resume\node_modules\regenerate-unicode-properties\Script_Extensions\Phoenician.js132908777437257125 0
-59C:\Users\ANNA\Desktop\Resume\src\sass\components\_info.scss132908961811583439 0
+59C:\Users\ANNA\Desktop\Resume\src\sass\components\_info.scss132909601595881121 0
 78C:\Users\ANNA\Desktop\Resume\node_modules\ora\node_modules\ansi-styles\license132908776839769515 0
 76C:\Users\ANNA\Desktop\Resume\node_modules\@babel\plugin-transform-new-target132908776868849780 1
 66C:\Users\ANNA\Desktop\Resume\node_modules\shebang-command\index.js132908776808109219 0
@@ -283,19 +285,19 @@
 73C:\Users\ANNA\Desktop\Resume\node_modules\posix-character-classes\LICENSE132908776830090697 0
 80C:\Users\ANNA\Desktop\Resume\node_modules\w3c-xmlserializer\lib\serialization.js132908776924381799 0
 114C:\Users\ANNA\Desktop\Resume\node_modules\parcel-bundler\node_modules\stylehacks\dist\plugins\mediaSlash0Slash9.js132908777102469340 0
-62C:\Users\ANNA\Desktop\Resume\src\sass\components\_sidebar.scss132908884728583153 0
+62C:\Users\ANNA\Desktop\Resume\src\sass\components\_sidebar.scss132909561151471619 0
 96C:\Users\ANNA\Desktop\Resume\node_modules\regenerate-unicode-properties\Script_Extensions\Lao.js132908777350641300 0
 58C:\Users\ANNA\Desktop\Resume\node_modules\sha.js\README.md132908776948321603 0
 66C:\Users\ANNA\Desktop\Resume\src\sass\components\_tech-skills.scss132908850637988840 0
+54C:\Users\ANNA\Desktop\Resume\node_modules\postcss-calc132908777040322689 1
+52C:\Users\ANNA\Desktop\Resume\node_modules\ansi-regex132908776861326103 1
+63C:\Users\ANNA\Desktop\Resume\node_modules\lodash\fp\uniqWith.js132908777534774916 0
+56C:\Users\ANNA\Desktop\Resume\node_modules\nan\LICENSE.md132908776874581722 0
 80C:\Users\ANNA\Desktop\Resume\node_modules\cosmiconfig\dist\getDirectory.d.ts.map132908777100058490 0
 121C:\Users\ANNA\Desktop\Resume\node_modules\postcss-modules-local-by-default\node_modules\postcss\lib\terminal-highlight.js132908777199073441 0
 91C:\Users\ANNA\Desktop\Resume\node_modules\@babel\types\lib\validators\isSpecifierDefault.js132908777302379810 0
 68C:\Users\ANNA\Desktop\Resume\node_modules\snapdragon\node_modules\ms132908776861737008 1
 50C:\Users\ANNA\Desktop\Resume\node_modules\regjsgen132908776856385018 1
-54C:\Users\ANNA\Desktop\Resume\node_modules\postcss-calc132908777040322689 1
-52C:\Users\ANNA\Desktop\Resume\node_modules\ansi-regex132908776861326103 1
-63C:\Users\ANNA\Desktop\Resume\node_modules\lodash\fp\uniqWith.js132908777534774916 0
-56C:\Users\ANNA\Desktop\Resume\node_modules\nan\LICENSE.md132908776874581722 0
 58C:\Users\ANNA\Desktop\Resume\node_modules\neo-async\all.js132908776808421621 0
 73C:\Users\ANNA\Desktop\Resume\node_modules\caniuse-lite\data\regions\LV.js132908777487275523 0
 52C:\Users\ANNA\Desktop\Resume\node_modules\color-name132908776860881875 1
@@ -326,7 +328,7 @@
 85C:\Users\ANNA\Desktop\Resume\node_modules\core-js-compat\node_modules\.bin\semver.ps1132908777621578166 0
 69C:\Users\ANNA\Desktop\Resume\node_modules\lodash\_escapeStringChar.js132908777353707676 0
 89C:\Users\ANNA\Desktop\Resume\node_modules\parcel-bundler\node_modules\terser\bin\uglifyjs132908776953039534 0
-53C:\Users\ANNA\Desktop\Resume\src\parts\education.html132908775176522711 0
+53C:\Users\ANNA\Desktop\Resume\src\parts\education.html132909557398689764 0
 60C:\Users\ANNA\Desktop\Resume\node_modules\array-uniq\license132908776836013231 0
 53C:\Users\ANNA\Desktop\Resume\node_modules\arr-flatten132908776861140473 1
 70C:\Users\ANNA\Desktop\Resume\node_modules\resolve\test\node_path\y\ccc132908777214049175 1
@@ -542,11 +544,6 @@
 56C:\Users\ANNA\Desktop\Resume\node_modules\lodash\fill.js132908777466747026 0
 66C:\Users\ANNA\Desktop\Resume\node_modules\sshpk\lib\formats\ssh.js132908777175878338 0
 51C:\Users\ANNA\Desktop\Resume\node_modules\fastparse132908776854805612 1
-52C:\Users\ANNA\Desktop\Resume\node_modules\uuid\v1.js132908777011011175 0
-91C:\Users\ANNA\Desktop\Resume\node_modules\core-js\library\modules\es6.number.parse-float.js132908777493943042 0
-89C:\Users\ANNA\Desktop\Resume\node_modules\postcss-ordered-values\src\lib\joinGridValue.js132908777020609450 0
-98C:\Users\ANNA\Desktop\Resume\node_modules\@babel\helper-explode-assignable-expression\lib\index.js132908776851460254 0
-53C:\Users\ANNA\Desktop\Resume\node_modules\array-union132908776861038075 1
 86C:\Users\ANNA\Desktop\Resume\node_modules\@babel\runtime\helpers\esm\defineProperty.js132908777291626623 0
 63C:\Users\ANNA\Desktop\Resume\node_modules\minimist\test\bool.js132908776842571748 0
 117C:\Users\ANNA\Desktop\Resume\node_modules\static-extend\node_modules\is-data-descriptor\node_modules\kind-of\index.js132908776869762631 0
@@ -861,7 +858,7 @@
 64C:\Users\ANNA\Desktop\Resume\node_modules\browser-process-hrtime132908776895429087 1
 51C:\Users\ANNA\Desktop\Resume\node_modules\nan\nan.h132908777147244922 0
 108C:\Users\ANNA\Desktop\Resume\node_modules\parcel-bundler\node_modules\htmlnano\node_modules\terser\lib\utils132908777191146414 1
-51C:\Users\ANNA\Desktop\Resume\dist\index.975ef6c8.js132908937782403829 0
+51C:\Users\ANNA\Desktop\Resume\dist\index.975ef6c8.js132909593520173780 0
 95C:\Users\ANNA\Desktop\Resume\node_modules\@babel\plugin-transform-flow-strip-types\package.json132908776876339772 0
 85C:\Users\ANNA\Desktop\Resume\node_modules\uncss\node_modules\postcss\lib\container.js132908776901829865 0
 67C:\Users\ANNA\Desktop\Resume\node_modules\postcss-svgo\src\index.js132908776815907315 0
@@ -4508,9 +4505,9 @@
 122C:\Users\ANNA\Desktop\Resume\node_modules\parcel-bundler\node_modules\htmlnano\node_modules\source-map\lib\mapping-list.js132908777032849031 0
 49C:\Users\ANNA\Desktop\Resume\node_modules\qs\dist132908776987506691 1
 79C:\Users\ANNA\Desktop\Resume\node_modules\postcss-minify-selectors\src\index.js132908776863272949 0
-88C:\Users\ANNA\Desktop\Resume\node_modules\static-eval\node_modules\escodegen\LICENSE.BSD132908776796516958 0
 69C:\Users\ANNA\Desktop\Resume\node_modules\svgo\plugins\removeAttrs.js132908777205129432 0
 75C:\Users\ANNA\Desktop\Resume\node_modules\core-js\modules\es6.string.sup.js132908777513040415 0
+88C:\Users\ANNA\Desktop\Resume\node_modules\static-eval\node_modules\escodegen\LICENSE.BSD132908776796516958 0
 98C:\Users\ANNA\Desktop\Resume\node_modules\uncss\node_modules\postcss-selector-parser\dist\index.js132908777176242208 0
 68C:\Users\ANNA\Desktop\Resume\node_modules\postcss-convert-values\src132908776856385018 1
 105C:\Users\ANNA\Desktop\Resume\node_modules\uncss\node_modules\postcss-selector-parser\dist\selectors\id.js132908777200469560 0
@@ -6448,6 +6445,8 @@
 89C:\Users\ANNA\Desktop\Resume\node_modules\@parcel\core\lib\requests\ParcelBuildRequest.js132908777303644077 0
 119C:\Users\ANNA\Desktop\Resume\node_modules\parcel-bundler\node_modules\htmlnano\node_modules\domutils\lib\traversal.d.ts132908777141932170 0
 94C:\Users\ANNA\Desktop\Resume\node_modules\jsdom\lib\jsdom\living\nodes\HTMLSlotElement-impl.js132908777456487259 0
+56C:\Users\ANNA\Desktop\Resume\node_modules\assert\test.js132908776968421933 0
+83C:\Users\ANNA\Desktop\Resume\node_modules\caniuse-lite\data\features\svg-filters.js132908777514391400 0
 70C:\Users\ANNA\Desktop\Resume\node_modules\shallow-copy\readme.markdown132908776951527369 0
 93C:\Users\ANNA\Desktop\Resume\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_drop.c132908777200398906 0
 59C:\Users\ANNA\Desktop\Resume\node_modules\shallow-copy\test132908776979175739 1
@@ -13003,6 +13002,8 @@
 66C:\Users\ANNA\Desktop\Resume\node_modules\call-me-maybe\.npmignore132908776809406321 0
 60C:\Users\ANNA\Desktop\Resume\node_modules\lodash\fp\value.js132908777536498836 0
 69C:\Users\ANNA\Desktop\Resume\node_modules\is-boolean-object\.eslintrc132908776831885126 0
+62C:\Users\ANNA\Desktop\Resume\node_modules\lodash\fp\valueOf.js132908777536598810 0
+76C:\Users\ANNA\Desktop\Resume\node_modules\core-js\library\modules\es6.map.js132908777487385538 0
 61C:\Users\ANNA\Desktop\Resume\node_modules\lodash\fp\values.js132908777536811014 0
 63C:\Users\ANNA\Desktop\Resume\node_modules\lodash\fp\valuesIn.js132908777536971017 0
 62C:\Users\ANNA\Desktop\Resume\node_modules\estraverse\README.md132908776926304441 0
@@ -16757,7 +16758,7 @@
 62C:\Users\ANNA\Desktop\Resume\node_modules\core-util-is\LICENSE132908776791384987 0
 76C:\Users\ANNA\Desktop\Resume\node_modules\caniuse-lite\data\features\avif.js132908777209817785 0
 67C:\Users\ANNA\Desktop\Resume\node_modules\core-util-is\package.json132908776843646176 0
-55C:\Users\ANNA\Desktop\Resume\dist\index.975ef6c8.js.map132908937782770633 0
+55C:\Users\ANNA\Desktop\Resume\dist\index.975ef6c8.js.map132909593520343790 0
 64C:\Users\ANNA\Desktop\Resume\node_modules\core-util-is\README.md132908776875227759 0
 66C:\Users\ANNA\Desktop\Resume\node_modules\core-util-is\lib\util.js132908776816634950 0
 66C:\Users\ANNA\Desktop\Resume\node_modules\core-js-compat\data.json132908776968401934 0
@@ -17112,7 +17113,7 @@
 84C:\Users\ANNA\Desktop\Resume\node_modules\core-js\library\modules\es6.object.seal.js132908777498143334 0
 82C:\Users\ANNA\Desktop\Resume\node_modules\core-js\library\modules\es6.parse-int.js132908777498837449 0
 90C:\Users\ANNA\Desktop\Resume\node_modules\core-js\library\modules\es6.reflect.construct.js132908777500051535 0
-56C:\Users\ANNA\Desktop\Resume\dist\index.f7626f62.css.map132908960166958889 0
+56C:\Users\ANNA\Desktop\Resume\dist\index.f7626f62.css.map132909601600680200 0
 108C:\Users\ANNA\Desktop\Resume\node_modules\core-js\library\modules\es6.reflect.get-own-property-descriptor.js132908777500761069 0
 70C:\Users\ANNA\Desktop\Resume\node_modules\@babel\traverse\package.json132908777184121239 0
 79C:\Users\ANNA\Desktop\Resume\node_modules\core-js\fn\number\virtual\iterator.js132908777555616863 0
@@ -18104,8 +18105,6 @@
 84C:\Users\ANNA\Desktop\Resume\node_modules\caniuse-lite\data\features\style-scoped.js132908777514098582 0
 64C:\Users\ANNA\Desktop\Resume\node_modules\@babel\core\lib\parser132908777199023445 1
 93C:\Users\ANNA\Desktop\Resume\node_modules\caniuse-lite\data\features\subresource-integrity.js132908777514158586 0
-56C:\Users\ANNA\Desktop\Resume\node_modules\assert\test.js132908776968421933 0
-83C:\Users\ANNA\Desktop\Resume\node_modules\caniuse-lite\data\features\svg-filters.js132908777514391400 0
 84C:\Users\ANNA\Desktop\Resume\node_modules\caniuse-lite\data\features\svg-fragment.js132908777514551414 0
 80C:\Users\ANNA\Desktop\Resume\node_modules\caniuse-lite\data\features\svg-html.js132908777514601399 0
 81C:\Users\ANNA\Desktop\Resume\node_modules\caniuse-lite\data\features\svg-html5.js132908777514651391 0
@@ -20736,6 +20735,6 @@
 55C:\Users\ANNA\Desktop\Resume\node_modules\.bin\uuid.ps1132908777621858145 0
 56C:\Users\ANNA\Desktop\Resume\node_modules\.bin\which.cmd132908777621848145 0
 56C:\Users\ANNA\Desktop\Resume\node_modules\.bin\which.ps1132908777621848145 0
-52C:\Users\ANNA\Desktop\Resume\dist\index.f7626f62.css132908960166958889 0
-44C:\Users\ANNA\Desktop\Resume\dist\index.html132908983100293910 0
-52C:\Users\ANNA\Desktop\Resume\dist\photo.55d45960.jpg132908937782926827 0
+52C:\Users\ANNA\Desktop\Resume\dist\index.f7626f62.css132909601600680200 0
+44C:\Users\ANNA\Desktop\Resume\dist\index.html132909600562135880 0
+52C:\Users\ANNA\Desktop\Resume\dist\photo.55d45960.jpg132909593520173780 0
