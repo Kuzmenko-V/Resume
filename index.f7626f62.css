@@ -1,0 +1,148 @@
+@import "https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap";
+ul {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
+address {
+  font-style: normal;
+}
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+h1,
+h2,
+h3,
+h4,
+p {
+  margin: 0;
+}
+body {
+  font-family: "Montserrat", sans-serif;
+  margin: 0px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.main-container {
+  display: flex;
+  max-width: 1200px;
+  margin: 0 auto;
+  box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
+}
+.sidebar {
+  background: #1e2939;
+  width: 370px;
+  padding: 40px 5px;
+}
+.photo {
+  width: 360px;
+  margin-bottom: 60px;
+}
+.container-sidebar-part {
+  padding: 0px 40px;
+  margin-bottom: 60px;
+}
+.title-sidebar-part {
+  margin-bottom: 20px;
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 24px;
+}
+.text-sidebar-part {
+  color: #d8dadd;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+.list-item-sidebar-part {
+  list-style: disc;
+}
+.list-item-sidebar-part::marker {
+  color: #ff6600;
+}
+.info {
+  color: #000000;
+  padding: 90px;
+  width: 820px;
+}
+.profession {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  margin-bottom: 24px;
+}
+.name {
+  font-size: 45px;
+  font-weight: 700;
+  line-height: 89px;
+  margin-bottom: 25px;
+}
+.discription {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+}
+.basic-info {
+  margin-bottom: 65px;
+}
+.title-info-part {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 10px;
+}
+.project-list {
+  font-weight: 700;
+}
+.project-link {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #ff6600;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+.line {
+  margin: 0px 5px;
+  flex: 2 1 auto;
+  height: 0px;
+  border-bottom: 2px dotted #ff6600;
+}
+.info-part {
+  margin-bottom: 15px;
+}
+.title-profession {
+  color: #000000;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+}
+.title-company {
+  color: #ff6600;
+}
+.profession-time {
+  color: #333333;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 24px;
+}
+.profession-duties {
+  color: #333333;
+  padding-left: 15px;
+  margin-bottom: 10px;
+  list-style: disc;
+}
+.profession-duties::marker {
+  color: #ff6600;
+}
+/*# sourceMappingURL=index.f7626f62.css.map */
